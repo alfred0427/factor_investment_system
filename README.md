@@ -157,7 +157,7 @@ tile_df    = factor_rank_tile_full(returns_dict, periods=12, freq="M")
 
 - `factor_rank_tile_full(...)`：各期（如月）對因子 **依單期報酬排序** 的「滿版方格圖」。  
   <!-- 圖片插入位：因子排名滿版方格圖 -->
-  ![Factor Rank Tile Placeholder](plot/alpha_heatmap.png)
+  ![Factor Rank Tile Placeholder](plot/alpha_heatmap2.png)
 
   
 
